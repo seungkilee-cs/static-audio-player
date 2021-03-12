@@ -1,20 +1,28 @@
 {
     "songs": [
         {
-            "name": "Keyakizaka46 - Ambivalent",
-            "url": "assets/Ambivalent.mp3"
+            "name": "優里 - Dry Flower",
+            "url": "assets/FLAC/Dry Flower.flac"
         },
         {
-            "name": "Imaizumi Yui - Hi ga Noboru Made",
-            "url": "assets/Hi ga Noboru Made.mp3"
+            "name": "米津玄師 - PLACEBO",
+            "url": "assets/FLAC/PLACEBO.flac"
         },
         {
-            "name": "Yui Chans - Zenmai Shikake no Yume",
-            "url": "assets/Zenmai Shikake no Yume.mp3"
+            "name": "日向坂46 - アザトカワイイ",
+            "url": "assets/FLAC/Azatokawaii.flac"
+        },
+        {
+            "name": "米津玄師 - 感電",
+            "url": "assets/FLAC/Kanden.flac"
         },
         {
             "name": "Futon no nakakara detakunai",
             "url": "assets/Futon no nakakara detakunai.mp3"
+        },
+        {
+            "name": "MAKTUB - 비로소 너에게 도착했다",
+            "url": "assets/FLAC/Full Bloom.flac"
         }
     ]
 }
