@@ -1,28 +1,28 @@
 {
     "songs": [
         {
-            "name": "優里 - Dry Flower",
-            "url": "assets/FLAC/Dry Flower.flac"
+            "name": "Nerd Connection - 좋은 밤 좋은 꿈",
+            "url": "assets/너드커넥션 - 좋은 밤 좋은 꿈.mp3"
+        },
+        {
+            "name": "JEMINN - Rainy Saturday",
+            "url": "assets/JEMINN - Rainy Saturday.mp3"
         },
         {
             "name": "米津玄師 - PLACEBO",
-            "url": "assets/FLAC/PLACEBO.flac"
+            "url": "assets/04.PLACEBO + 野田洋次郎.mp3"
         },
         {
-            "name": "日向坂46 - アザトカワイイ",
-            "url": "assets/FLAC/Azatokawaii.flac"
+            "name": "ウォルピス社 - COSMOS",
+            "url": "assets/ウォルピス社-COSMOS.mp3"
         },
         {
             "name": "米津玄師 - 感電",
-            "url": "assets/FLAC/Kanden.flac"
+            "url": "assets/03.感電.mp3"
         },
         {
             "name": "Futon no nakakara detakunai",
             "url": "assets/Futon no nakakara detakunai.mp3"
-        },
-        {
-            "name": "MAKTUB - 비로소 너에게 도착했다",
-            "url": "assets/FLAC/Full Bloom.flac"
         }
     ]
 }
