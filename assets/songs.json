@@ -1,0 +1,20 @@
+{
+    "songs": [
+        {
+            "name": "Keyakizaka46 - Ambivalent",
+            "url": "assets/Ambivalent.mp3"
+        },
+        {
+            "name": "Imaizumi Yui - Hi ga Noboru Made",
+            "url": "assets/Hi ga Noboru Made.mp3"
+        },
+        {
+            "name": "Yui Chans - Zenmai Shikake no Yume",
+            "url": "assets/Zenmai Shikake no Yume.mp3"
+        },
+        {
+            "name": "Futon no nakakara detakunai",
+            "url": "assets/Futon no nakakara detakunai.mp3"
+        }
+    ]
+}
